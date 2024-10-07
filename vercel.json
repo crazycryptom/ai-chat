@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "app/api/**/*": {
+      "maxDuration": 59
+    },
+    "app/page.tsx": {
+      "maxDuration": 59
+    },
+    "app/ui/**/*": {
+      "maxDuration": 59
+    }
+  }
+}
